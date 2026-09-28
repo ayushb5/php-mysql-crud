@@ -29,6 +29,10 @@ A simple Employee Management CRUD application built using PHP and MySQL. This pr
 | Update    | Edit existing employee information |
 | Delete    | Remove an employee record          |
 
+## 🎥 Project Demo
+
+[▶️ Watch Project Demo](https://github.com/user-attachments/assets/2393c990-74e5-45db-9513-cacd7b6e3823)
+
 ## ⚙️ How to Run
 
 1. Clone the repository:
